@@ -64,10 +64,7 @@ function ProductList (){
                 )
 
               })} 
-
-
             </div>   
-
         </section>
          
         </>
